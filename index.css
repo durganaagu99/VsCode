@@ -1,0 +1,36 @@
+.bg-container{
+    background-color: rgb(157, 255, 0);
+    height:100vh;
+    text-align:center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    color:green;
+}
+.image{
+height:200px;
+width:200px;
+}
+.button-style{
+    height:20vh;
+    width:100px;
+    border-radius:10px;
+    border-width:1px;
+    border-style:solid;
+    border-color:blue;
+    text-align:center;
+    color:brown;
+    font-size:30px;
+    font-family:"roboto"
+}
+.para{
+    color:black;
+    font-weight:bold;
+    font-size:20px;
+    font-family: "roboto";
+    
+
+}
